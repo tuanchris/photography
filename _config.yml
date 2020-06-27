@@ -1,25 +1,22 @@
 # Base configs
-baseurl: "https://photography.rampatra.com"
+baseurl: "http://tuanchris.github.io/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "UA-155030319-1"
 
 # UI configs
-title: "Photography by Ram Patra"
-subtitle: "See the world through my eyes!"
-author: "Ram Patra"
+title: "Tuan Nguyen's photography"
+subtitle: "See the world through my lenses"
+author: "Tuan Nguyen"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by Tuan Nguyen"
 footer:
- name: "Hey there, my name is Ram"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
-web_design: "AJ"
+ name: "Hi, my name is Tuan"
+ bio: "I am a manager in Data Analytics from Vietnam. I have many hobbies and photography is one them. Have a peek at my life through my photography!" 
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  facebook: "https://www.facebook.com/tuanchris"
+  twitter: "https://www.twitter.com/tuanchris"
+  instagram: "https://www.instagram.com/kidinlove"
+  linkedin: "https://in.linkedin.com/in/tuanchris"
+  github: "https://www.github.com/tuanchris"
